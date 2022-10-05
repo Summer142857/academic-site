@@ -1,6 +1,7 @@
 ---
 title: Xia Jiang
 role: Student in Southeast University
+avatar_filename: avatar.jpg
 bio: My research interests include connected and automated vehicles,
   reinforcement learning and transportation engineering.
 interests:
