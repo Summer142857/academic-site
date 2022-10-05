@@ -32,7 +32,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: summer142857.jiang@gmail.com
 ---
 Xia Jiang is a student of transportation engineering at Southeast University, China. His research interests include connected and automated vehicles, reinforcement learning and transportation engineering. He is obsessed with advanced artificial intelligence and technologies in transportation systems. 
 
